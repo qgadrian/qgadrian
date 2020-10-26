@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adrián, I am a full-stack/devops/whateveryouneed software engineer, and I work building distributed, scalable and high available architectures using agile methodologies.
+My name is Adrián, I am a full-stack/devops/whateveryouneed software engineer and I work building distributed, scalable and high available architectures using agile methodologies.
 
 Enthusiastic of functional programming, the continuous delivery process, testing and clean code.
 
