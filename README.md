@@ -7,5 +7,5 @@ Enthusiastic of functional programming, the continuous delivery process, testing
 Love to have fun with new frameworks and languages, and always looking for improve my professional soft and hard skills.
 
 ### Contact me
-- ✉️ contact@qgadrian.com
+- ✉️ adrian@secret.fyi
 - @qgadrian (everywhere)
