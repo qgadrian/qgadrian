@@ -7,5 +7,5 @@ Enthusiastic of functional programming, the continuous delivery process, testing
 Love to have fun with new frameworks and languages, and always looking for improve my professional soft and hard skills.
 
 ### Contact me
-- ✉️ adrian@secret.fyi
+- ✉️ [adrian@secret.email](mailto:stand-lidless.0p@icloud.com)
 - @qgadrian (everywhere)
